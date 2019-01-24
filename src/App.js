@@ -21,7 +21,7 @@ class App extends Component {
           </a>
           <a
             className="App-link"
-            href="https://http://github.com/abasjr"
+            href="https://github.com/abasjr"
             target="_blank"
             rel="noopener noreferrer"
           >
